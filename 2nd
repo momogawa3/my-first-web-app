@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Pages Site</title>
+</head>
+<body>
+    <h1>ようこそ、web開発の練習へ</h1>
+    <p>頑張ろう</p>
+    <ul>
+        <li>目標</li>
+        <li>ゴール</li>
+        <li>次のステップ</li>
+    </ul>
+</body>
+</html>
